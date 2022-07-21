@@ -1,4 +1,8 @@
-# webApp link 
+# Note Taking app using react
+<hr>
+<br>
+
+## WebApp link 
 [Notes App](https://inderjeet0202.github.io/Notes-taking-app-using-ReactJS/)
 
 # Getting Started with Create React App
