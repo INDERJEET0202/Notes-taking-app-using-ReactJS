@@ -2,7 +2,7 @@
 <hr>
 
 ## WebApp link 
-[Notes App](https://inderjeet0202.github.io/Notes-taking-app-using-ReactJS/)
+[Notes App](https://magicnotess.netlify.app/)
 
 # Getting Started with Create React App
 
